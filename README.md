@@ -12,8 +12,10 @@ de Ingeniería en Ciencia de Datos, Universidad EAN.
 
 ## Lo que aprendí
 
-1. (Escribe aquí la primera cosa concreta que te llevas del curso)
-2. (Escribe aquí la segunda)
-3. (Escribe aquí la tercera)
+
+
+1. A usar Git y GitHub para guardar mi trabajo y no depender de un solo computador.
+2. A organizar un repositorio con carpetas claras y commits que explican cada cambio.
+3. A clonar repositorios ajenos para aprender y reutilizar código de otros.
 
 Daniel Martinez · 2026
